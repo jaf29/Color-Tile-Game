@@ -1,3 +1,3 @@
 # Color-Tile-Game
 
-Testing
+Pushed project to Git
